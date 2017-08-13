@@ -1,0 +1,5 @@
+D:\O's Documents\Documents\Projects\Bai2\Bai2\bin\Debug\Bai2.exe
+D:\O's Documents\Documents\Projects\Bai2\Bai2\bin\Debug\Bai2.pdb
+D:\O's Documents\Documents\Projects\Bai2\Bai2\obj\x86\Debug\Bai 1.csprojResolveAssemblyReference.cache
+D:\O's Documents\Documents\Projects\Bai2\Bai2\obj\x86\Debug\Bai2.exe
+D:\O's Documents\Documents\Projects\Bai2\Bai2\obj\x86\Debug\Bai2.pdb

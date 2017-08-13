@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bai 1", "Bai2\Bai 1.csproj", "{E72E98D6-96A5-4836-B775-5775C5E448EB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bai 2", "Session7bai2\Bai 2.csproj", "{B4F3C3E9-4C8A-4C9D-9704-E9DC8B7D27D5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B4F3C3E9-4C8A-4C9D-9704-E9DC8B7D27D5}.Debug|x86.ActiveCfg = Debug|x86
+		{B4F3C3E9-4C8A-4C9D-9704-E9DC8B7D27D5}.Debug|x86.Build.0 = Debug|x86
+		{B4F3C3E9-4C8A-4C9D-9704-E9DC8B7D27D5}.Release|x86.ActiveCfg = Release|x86
+		{B4F3C3E9-4C8A-4C9D-9704-E9DC8B7D27D5}.Release|x86.Build.0 = Release|x86
+		{E72E98D6-96A5-4836-B775-5775C5E448EB}.Debug|x86.ActiveCfg = Debug|x86
+		{E72E98D6-96A5-4836-B775-5775C5E448EB}.Debug|x86.Build.0 = Debug|x86
+		{E72E98D6-96A5-4836-B775-5775C5E448EB}.Release|x86.ActiveCfg = Release|x86
+		{E72E98D6-96A5-4836-B775-5775C5E448EB}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+EndGlobal

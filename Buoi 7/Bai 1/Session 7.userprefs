@@ -1,0 +1,13 @@
+﻿<Properties StartupItem="Bai2\Bai 1.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Session7bai2\Program.cs">
+    <Files>
+      <File FileName="Session7bai2\Program.cs" Line="59" Column="6" />
+      <File FileName="Bai2\Program.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
